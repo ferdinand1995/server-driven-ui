@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "hello-vapor",
+    name: "server-driven-ui-service",
     platforms: [
        .macOS(.v10_15)
     ],

@@ -23,7 +23,7 @@ x-shared_environment: &shared_environment
 
 services:
   app:
-    image: hello-vapor:latest
+    image: server-driven-ui-service:latest
     build:
       context: .
     environment:
